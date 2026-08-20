@@ -31,3 +31,6 @@ Thumbs.db
 
 # MySQL / local configuration
 *.cnf
+
+# Large raw IMDb dataset
+data/raw/title.basics.tsv.gz
