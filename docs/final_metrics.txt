@@ -1,0 +1,42 @@
+OTT & Movie Ratings Trend Analysis
+Final Validated Metrics
+
+Platforms: 3
+Titles: 8,539
+Genres: 98
+Title-Genre Relationships: 18,552
+Excluded Titles: 72
+Multi-platform Titles: 446
+
+Overall Average IMDb Rating: 6.22
+Overall Average IMDb Votes: 38,226
+
+Netflix:
+Titles: 5,240
+Rating: 6.36
+Average Votes: 42,058
+Total Votes: 220,383,611
+
+Disney+:
+Titles: 512
+Rating: 6.65
+Average Votes: 118,574
+Total Votes: 60,709,916
+
+Amazon Prime Video:
+Titles: 2,787
+Rating: 5.88
+Average Votes: 16,262
+Total Votes: 45,321,790
+
+High Rating + High Popularity:
+Netflix: 715
+Disney+: 163
+Amazon Prime Video: 162
+
+High Performing %:
+Netflix: 13.6%
+Disney+: 31.8%
+Amazon Prime Video: 5.8%
+
+Multi-platform Titles: 446

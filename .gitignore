@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Local credentials
+.env
+
+# MySQL / local configuration
+*.cnf
+
+# Large raw IMDb dataset
+data/raw/title.basics.tsv.gz
