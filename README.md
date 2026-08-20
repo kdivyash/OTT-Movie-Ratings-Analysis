@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:2563EB&height=240&section=header&text=OTT%20%26%20Movie%20Ratings%20Analytics&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=End-to-End%20Data%20Analytics%20%7C%20SQL%20%7C%20MySQL%20%7C%20Power%20BI%20%7C%20DAX&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=220&section=header&text=OTT%20Movie%20Ratings%20Analytics&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 # 🎬 OTT & Movie Ratings Trend Analysis
 
