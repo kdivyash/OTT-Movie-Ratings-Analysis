@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=220&section=header&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A5F,100:0F172A&height=120&section=header" width="100%"/>
 
 # 🎬 OTT & Movie Ratings Trend Analysis
 
